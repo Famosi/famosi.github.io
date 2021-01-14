@@ -22,13 +22,13 @@ Work experience
   * Duties included: Project Menager & Android Developer
 * Summer 2012: Sound & Video Engineer
   * Barbieri Communications
-  * Duties included: Set up preparation for live television news (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
+  * Set up preparation for live television news (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
 
 Volunteer
 ======
 * Summer 2011: Volunteer in Kenya (Kericho Town)
-  * Volunteer
-  * Duties included: Build of a water well; Cleaning hospitals; Children entertainment
+  * Oikos Association
+  * Build of a water well - Cleaning hospitals - Children entertainment
 
 
 Skills
