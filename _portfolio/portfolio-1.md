@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Duckietown - AI driving robot"
+excerpt: "The “AI Driving Olympics” (AI-DO) is a competition with the objective of evaluating the state of the art in machine learning and artificial intelligence for mobile robotics. The goal of the competition is to build a machine learning (ML) model that allows a self-driving "car", called Duckiebot, to drive on streets within Duckietown.
+<br/><img src='/images/Duckietown_logo.png'>"
 collection: portfolio
 ---
 
