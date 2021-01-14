@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2018
+* M.S. in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2020
+* M.S. in Intelligent Systems, Bielefeld University (Germany), 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2018: Software Engineer
+  * Freelance
+  * Duties included: Project Menager & Android Developer
+* Summer 2012: Sound & Video Engineer
+  * Barbieri Communications
+  * Duties included: set preparation for live news telvisions (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Love to learn new things!
+* Adaptable
+  * Working Hours
+  * Collegues
+  * Space of work
+* Friendly and Social
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+What I'm Currently Doing?
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Signed in to 3 different Slack teams
+* Working on my Master's Thesis
+* Always writing down new IDEAS! Just waiting for the right one 💡
