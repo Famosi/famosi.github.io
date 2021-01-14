@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Famosi"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "MSc Intelligent Systems"
   location         : "Rome, Italy"
   employer         :
