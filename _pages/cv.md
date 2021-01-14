@@ -24,6 +24,13 @@ Work experience
   * Barbieri Communications
   * Duties included: set preparation for live news telvisions (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
 
+Volunteer
+======
+* Summer 2011: Volunteer in Kenya (Kericho Town)
+  * Volunteer
+  * Duties included: Build of a water well; Cleaning hospitals; Children entertainment
+
+
 Skills
 ======
 * Love to learn new things!
