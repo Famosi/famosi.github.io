@@ -1,7 +1,7 @@
 ---
 title: "Duckietown - AI driving robot"
 collection: projects
-permalink: /famosi/2009-10-01-paper-title-number-1
+permalink: #
 excerpt: #''
 date: 2020-09-01
 venue: #'Journal 1'
