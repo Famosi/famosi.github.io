@@ -1,8 +1,8 @@
 ---
 title: "Duckietown - AI driving robot"
 collection: projects
-permalink: #
-excerpt: #''
+permalink: 
+excerpt:
 date: 2020-09-01
 venue: #'Journal 1'
 paperurl: 'https://github.com/Famosi/Duckietown-AI-Driving-Olympics'
