@@ -2,7 +2,7 @@
 title: "Duckietown - AI Driving Olympics"
 excerpt: "The AI Driving Olympics (AI-DO) is a competition with the objective of evaluating the state of the art in machine learning and artificial intelligence for mobile robotics. The goal of the competition is to build a machine learning (ML) model that allows a self-driving car, called Duckiebot, to drive on streets within Duckietown. <br/>
 
-<img src='Duckietown-logo.png'>"
+<img src='images/500x300.png'>"
 
 collection: portfolio
 ---
