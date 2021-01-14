@@ -28,8 +28,9 @@ redirect_from:
 ---
 
 ### Website
-Check out my [Portfolio](https://famosi.github.io/portfolio/) of universties projects and my updated [CV](https://famosi.github.io/cv/)
+Check out my [Portfolio](https://famosi.github.io/portfolio/) and my updated [CV](https://famosi.github.io/cv/).
 
+---
 
 ### Languages and Tools:
 
