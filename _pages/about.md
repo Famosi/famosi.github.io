@@ -28,7 +28,7 @@ redirect_from:
 ---
 
 ### Website
-👷 The website is under construction 👷
+👷 The website is under construction... 👷
 
 Meanwhile, check out my universty [Portfolio](https://famosi.github.io/portfolio/) and my updated [CV](https://famosi.github.io/cv/).
 
