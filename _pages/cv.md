@@ -22,7 +22,7 @@ Work experience
   * Duties included: Project Menager & Android Developer
 * Summer 2012: Sound & Video Engineer
   * Barbieri Communications
-  * Duties included: set preparation for live news telvisions (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
+  * Duties included: Set up preparation for live television news (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
 
 Volunteer
 ======
