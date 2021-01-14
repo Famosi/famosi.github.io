@@ -16,13 +16,16 @@ redirect_from:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s_beeches)
 
 ---
+
 ### I'm a Computer Science Student 💻
 
 - 👨🏻‍🎓 Bachelor's Degree in Computer Science 👨🏻‍🎓 
 - 🧠 Currently studying Intelligent Systems 🧠
 - 👷 2021 Goals: Contribute more to Open Source projects 👷
 - ⛷️ I love to ski ⛷️
+
 ---
+
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +38,6 @@ redirect_from:
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-<img>
-    <img alt="FaMoSi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FaMoSi&show_icons=true" />
-</img>
+
+
+<img alt="FaMoSi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FaMoSi&show_icons=true" />
