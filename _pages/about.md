@@ -19,12 +19,17 @@ redirect_from:
 
 ### I'm a Computer Science Student 💻
 
-- 👨🏻‍🎓 Bachelor's Degree in Computer Science 👨🏻‍🎓 
-- 🧠 Currently studying Intelligent Systems 🧠
-- 👷 2021 Goals: Contribute more to Open Source projects 👷
-- ⛷️ I love to ski ⛷️
+- 👨🏻‍🎓 Bachelor's Degree in **Computer Science**
+- 👨🏻‍🎓 Master's Degree in **Computer Science - Systems and Networks**
+- 👨🏻‍🎓 Master's Degree in **Intelligent Systems** 
+- 👷 **2021 Goals**: Contribute more to Open Source projects 
+- ⛷️ I love to **ski**
 
 ---
+
+### Website
+Check out my [Portfolio](https://famosi.github.io/portfolio/) of universties projects and my updated [CV](https://famosi.github.io/cv/)
+
 
 ### Languages and Tools:
 
