@@ -10,7 +10,7 @@ redirect_from:
 
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=FaMoSi.FaMoSi" alt="visitors"></a>
 
-<img src="https://famosi.github.io/images/Software.jpg" alt="homeimg" width=500 align="right">
+<img src="https://famosi.github.io/images/Software.jpg" alt="homeimg" width=200 align="right">
 
 ### Hi there, I'm Simone - aka @Famosi 👋 
 
