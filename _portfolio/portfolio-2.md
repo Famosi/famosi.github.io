@@ -9,4 +9,4 @@ L’elaborato presenta un caso di studio dello strumento di collaborazione agile
  studenti. In particolare è proposto un progetto che consente agli studenti di avvicinarsi allo strumento di collaborazione Trello, giocando con esso ad uno dei giochi da tavolo più famosi al mondo: Monopoly.
  
  ### PDF
- [https://github.com/Famosi/famosi.github.io/files/Tesi-Faggi-Simone.pdf](https://github.com/Famosi/famosi.github.io/files/Tesi-Faggi-Simone.pdf)
+ [https://famosi.github.io/files/Tesi-Faggi-Simone.pdf](https://famosi.github.io/files/Tesi-Faggi-Simone.pdf)
