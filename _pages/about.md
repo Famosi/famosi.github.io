@@ -10,8 +10,6 @@ redirect_from:
 
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=FaMoSi.FaMoSi" alt="visitors"></a>
 
-<img src="https://famosi.github.io/images/Software.jpg" alt="homeimg" width=200 align="right">
-
 ### Hi there, I'm Simone - aka @Famosi 👋 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-faggi-437a9718a/)
