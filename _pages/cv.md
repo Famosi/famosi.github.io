@@ -19,7 +19,7 @@ Work experience
 ======
 * Winter 2018: Software Engineer
   * Freelance
-  * Duties included: Project Menager & Android Developer
+  * Duties included: Project Manager & Android Developer
 * Summer 2012: Sound & Video Engineer
   * Barbieri Communications
   * Set up preparation for live television news (SkyTg24 - SkySport24 - Rai1 - Rai2 - Rai3)
@@ -48,6 +48,5 @@ Projects
   
 What I'm Currently Doing?
 ======
-* Signed in to 3 different Slack teams
-* Working on my Master's Thesis
+* Working on my Master's Thesis 🧠 🤖
 * Always writing down new IDEAS! Just waiting for the right one 💡
