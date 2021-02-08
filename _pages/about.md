@@ -24,7 +24,6 @@ redirect_from:
 - 👨🏻‍🎓 Master's Degree in **Intelligent Systems** 
 - 👷 **2021 Goal**: Contribute more to Open Source projects 
 - ⛷️ I love to **ski**
-- 🌎 [Earth2](https://app.earth2.io/): Referral code --> WR5R26U624 (5% Discount)
 
 ---
 
