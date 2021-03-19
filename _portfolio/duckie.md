@@ -33,11 +33,8 @@ perfectly within an environment, then use this `expert` to collect data.
 Data are pairs `<observation, actions>`collected in different maps/environments used to train an agent that imitates the expert's behaviour (Imitation Learning / Behavioural Cloning) .
 Finally, you have a self-driving car that navigates within Duckietown using only one single sensor, the camera.
 
-Trough this tutorial you will:
-* Use the [Reinforcement Learning](duckietown_rl) approach (Decision Tree) to build an `expert`.
-* Use the `expert` to [collect data](duckietown_il/collect_data.py).
-* Use the [Imitation Learning](duckietown_il) approach to train the `Duckiebot`.
-* [Submit](submission) the solution to the [“AI Driving Olympics” (AI-DO)](http://aido.duckietown.org/).
+
+#### Check out the full project on [GitHub](https://github.com/Famosi/Duckietown-AI-Driving-Olympics)
 
 ## Author
 * **[Simone Faggi](https://github.com/FaMoSi)**
