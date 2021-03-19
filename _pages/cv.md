@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2018
-* M.S. in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2020
-* M.S. in Intelligent Systems, Bielefeld University (Germany), 2021
+* MSc in Intelligent Systems, Bielefeld University (Germany), 2021
+* MSc in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2020
+* BSc in Computer Science, Alma Mater Studiorum - Bologna University (Italy), 2018
+
+
 
 Work experience
 ======
+* March 2021 - Current: Software Engineer
+  * [Dolomiti Robotics](www.dolomitirobotics.it)
 * Winter 2018: Software Engineer
   * Freelance
   * Duties included: Project Manager & Android Developer
