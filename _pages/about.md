@@ -17,26 +17,25 @@ redirect_from:
 
 ---
 
-### I'm a Computer Science Student 💻
+### I'm a Software Engineer 🤖 💻
 
-- 👨🏻‍🎓 Bachelor's Degree in **Computer Science**
-- 👨🏻‍🎓 Master's Degree in **Computer Science - Systems and Networks**
-- 👨🏻‍🎓 Master's Degree in **Intelligent Systems** 
-- 👷 **2021 Goal**: Contribute more to Open Source projects 
+- 🦾 Software Engineer [@DolomitiRobotics](www.dolomitirobotics.it)
+- 🧠 Master's Degree in **Intelligent Systems** 
+- 💻 Bachelor's Degree in **Computer Science**
+- 👨🏻‍🎓 Bachelor's Degree in **Computer Science** 
 - ⛷️ I love to **ski**
 
 ---
 
 ### Website
-👷 The website is under construction... 👷
-
-Meanwhile, check out my universty [Portfolio](https://famosi.github.io/portfolio/) and my updated [CV](https://famosi.github.io/cv/).
+Check out my [Portfolio](https://famosi.github.io/portfolio/) and my updated [CV](https://famosi.github.io/cv/).
 
 ---
 
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c++&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +43,7 @@ Meanwhile, check out my universty [Portfolio](https://famosi.github.io/portfolio
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
